@@ -1,1 +1,0 @@
-insert tablename values
